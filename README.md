@@ -1,2 +1,2 @@
 # crosscalc
-found on my sourceforge account??? lolll
+i found this bullshit on my sourceforge account! wowwww
