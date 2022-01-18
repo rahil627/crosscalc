@@ -1,0 +1,6 @@
+a cross-platform calculator, with a history box, and TI-83-like calcuations.
+
+like powercalc
+see mac's calculator
+sourceforge's qualculate http://qalculate.sourceforge.net/
+linux calcultor?
